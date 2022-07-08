@@ -1,7 +1,8 @@
+
 body{
     color: black;
     text-align: center;
-    font-family: "Arial";
+    font-family: "curier";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -17,4 +18,10 @@ ul{
     display: flex;
     flex-direction: row;
     list-style: none;
+}
+#cabecera{
+    background-color: rgb(51, 51, 185);
+    padding: 1rem;
+    margin: -1em -1em;
+    color: white;
 }
