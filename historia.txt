@@ -8,12 +8,11 @@ experimento 1
 
 experimento 2
 
-master 2.
-
-hoy hablaremos de su vida y obra maestra.
 
 master 1
 
 master 2
+
+hoy hablaremos de su vida y obra maestra.
 hola que se dice. 
 probando el cat
